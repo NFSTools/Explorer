@@ -3,7 +3,7 @@
 Experimental, W.I.P model+texture+other-stuff reader for Need for Speed games by EA Black Box.
 
 Supported games:
-- [ x ] World
+- [x] World
 - [ ] Undercover
 - [ ] ProStreet
 - [ ] Carbon
